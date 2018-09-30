@@ -5,3 +5,6 @@
 Compile Steps:
 
 Output:
+25
+01011000
+056
